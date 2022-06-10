@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364275151842",
+    "project_id": "axtion-254b3",
+    "storage_bucket": "axtion-254b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364275151842:android:5892086dc212826a75bfbb",
+        "android_client_info": {
+          "package_name": "com.example.axtion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364275151842-4cndick8h4goievdu2es9f69kqd1944s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALGQY7MT8C-dCa4lqrd2oQxm5kVXDKGuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364275151842-4cndick8h4goievdu2es9f69kqd1944s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

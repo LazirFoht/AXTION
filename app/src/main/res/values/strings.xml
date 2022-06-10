@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AXTION</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="register">REGISTER</string>
+    <string name="have_an_account">ALREADY HAVE AN ACCOUNT? LOGIN HERE</string>
+    <string name="register_tittle">Register</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="info">info</string>
+    <string name="logout">logout</string>
+    <string name="dictionary">Dictionary</string>
+</resources>
